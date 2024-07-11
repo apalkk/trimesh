@@ -1,0 +1,22 @@
+Examples
+===========
+Several examples are available as rendered IPython notebooks.
+
+.. toctree::
+   :maxdepth: 2
+
+   nearest
+
+   section
+
+   quick_start
+
+   ray
+
+   shortest
+
+   colors
+
+   curvature
+
+   texture
